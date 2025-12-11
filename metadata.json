@@ -1,0 +1,5 @@
+{
+  "name": "Simple Sentiment Analyzer",
+  "description": "A modern React application to determine the dominant sentiment (Positive, Negative, or Neutral) of user-inputted text using a configurable AI Model endpoint.",
+  "requestFramePermissions": []
+}
