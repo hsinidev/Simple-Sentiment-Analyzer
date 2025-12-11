@@ -8,7 +8,7 @@
   </p>
 
   <p align="center">
-    <a href="https://doodax.com/" target="_blank">
+    <a href="https://doodax.com/tools/simple-sentiment-analyzer/index.html" target="_blank">
       <img src="https://img.shields.io/badge/🚀_Live_Demo-doodax.com-blue?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo">
     </a>
   </p>
